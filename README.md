@@ -14,5 +14,6 @@ Ensuring worker safety is essential in industries like construction, manufacturi
 1️⃣ Install Dependencies
 - Ensure Python is installed, then run:
   - ```pip install ultralytics opencv-python cvzone numpy```
+
 2️⃣ Download the Trained YOLO Model
 - Place the .pt model file (ppe.pt) in the project directory.
