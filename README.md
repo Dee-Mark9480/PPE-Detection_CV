@@ -14,6 +14,7 @@ Ensuring worker safety is essential in industries like construction, manufacturi
 
 
 🛠️ Installation & Setup
+
 1️⃣ Install Dependencies
 - Ensure Python is installed, then run:
   - ```pip install ultralytics opencv-python cvzone numpy```
